@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00e72949-eede-495b-a84a-37948917464a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../TestApiCcourse/reports/1707343960414/test.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApiCcourse/reports/1707343992236/15a77622-b1f3-4a81-abf8-0aba3192782d/test.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApiCcourse/reports/1707343992236/49d2ff17-2a03-490f-b473-21db2454bd42/test.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApiCcourse/reports/1707343992236/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApiCcourse/reports/1707343992236/test.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApiCcourse/reports/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApiCcourse/reports/gallery-lib/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApiCcourse/reports/gallery-lib/cucumber.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApiCcourse/reports/gallery-lib/jquery-3.1.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApiCcourse/reports/gallery-lib/jquery.photobox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApiCcourse/reports/gallery-lib/photobox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApiCcourse/reports/gallery-lib/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApiCcourse/reports/gallery-lib/thumbnail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApiCcourse/src/main/java/com/solvd/carina/demo/WebFacebookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApiCcourse/src/main/java/com/solvd/carina/demo/gui/facebook/components/SignUpForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApiCcourse/src/main/java/com/solvd/carina/demo/gui/facebook/pages/AbstractFacebookPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApiCcourse/src/main/java/com/solvd/carina/demo/gui/facebook/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApiCcourse/src/main/java/com/solvd/carina/demo/gui/facebook/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/1708553059906/test.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/1708643291292/60185d19-82f1-4fcb-a2da-2bcdbe1165f0/1708643311277.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/1708643291292/60185d19-82f1-4fcb-a2da-2bcdbe1165f0/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/1708643291292/60185d19-82f1-4fcb-a2da-2bcdbe1165f0/test.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/1708643291292/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/1708643291292/test.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/1708643597585/227f4179-99bd-4d38-9779-15b8bb76072e/1708643612935.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/1708643597585/227f4179-99bd-4d38-9779-15b8bb76072e/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/1708643597585/227f4179-99bd-4d38-9779-15b8bb76072e/test.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/1708643597585/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/1708643597585/test.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/1708643748222/8c0384ad-ccac-44fb-8575-245aadfffaf5/1708643764666.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/1708643748222/8c0384ad-ccac-44fb-8575-245aadfffaf5/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/1708643748222/8c0384ad-ccac-44fb-8575-245aadfffaf5/test.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/1708643748222/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/1708643748222/test.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/gallery-lib/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/gallery-lib/cucumber.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/gallery-lib/jquery-3.1.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/gallery-lib/jquery.photobox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/gallery-lib/photobox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/gallery-lib/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/gallery-lib/thumbnail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/gsmarenatest/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/solvd/gsmarenatest/LoginPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Classes Test Automation/1-2-2024.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes Test Automation/1-2-2024.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Classes Test Automation/29-1-2024.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes Test Automation/29-1-2024.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Classes Test Automation/5-2-2024.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes Test Automation/5-2-2024.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homeworks1" beforeDir="false" afterPath="$PROJECT_DIR$/../Homeworks1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/chromedriver-win64.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/chromedriver-win64/LICENSE.chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/chromedriver-win64/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test2" beforeDir="false" afterPath="$PROJECT_DIR$/../Test2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestApiCcourse/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestApiCcourse/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestApiCcourse/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestApiCcourse/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestApiCcourse/src/main/java/com/solvd/carina/demo/APICourseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestApiCcourse/src/main/java/com/solvd/carina/demo/APICourseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestApiCcourse/src/main/resources/_config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../TestApiCcourse/src/main/resources/_config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestApiCcourse/src/test/java/com/solvd/carina/demo/MobileSampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestApiCcourse/src/test/java/com/solvd/carina/demo/MobileSampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestApiCcourse/src/test/resources/api/products/_post/rs.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TestApiCcourse/src/test/resources/api/products/_post/rs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestApiCcourse/src/test/resources/testng_suites/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestApiCcourse/src/test/resources/testng_suites/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestApiCcourse/target/classes/_config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../TestApiCcourse/target/classes/_config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestApiCcourse/target/test-classes/testng_suites/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestApiCcourse/target/test-classes/testng_suites/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vehicles" beforeDir="false" afterPath="$PROJECT_DIR$/../Vehicles" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VehiclesUpdated" beforeDir="false" afterPath="$PROJECT_DIR$/../VehiclesUpdated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker build.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../docker build.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../navigator-project-solvd" beforeDir="false" afterPath="$PROJECT_DIR$/../navigator-project-solvd" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2cgxF45OIo34sUaEx6byFEfGTys" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.LoginPageTest.verifyLoginTest (1).executor": "Debug",
+    "TestNG.LoginPageTest.verifyLoginTest.executor": "Debug",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucas\Desktop\TestAutomation\gsmarenaTest\src\test" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LoginPageTest.verifyLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="gsmarenaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solvd.gsmarenatest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solvd.gsmarenatest" />
+      <option name="MAIN_CLASS_NAME" value="com.solvd.gsmarenatest.LoginPageTest" />
+      <option name="METHOD_NAME" value="verifyLoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginPageTest.verifyLoginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00e72949-eede-495b-a84a-37948917464a" name="Changes" comment="" />
+      <created>1708546918750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708546918750</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
