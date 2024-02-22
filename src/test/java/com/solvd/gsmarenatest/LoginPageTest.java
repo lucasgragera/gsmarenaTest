@@ -13,8 +13,7 @@ public class LoginPageTest implements IAbstractTest {
     @Test
     public void verifyLoginTest(){
         LoginPage loginPage = new LoginPage(getDriver());
-
-
+        
         loginPage.open();
         loginPage.typeEmail("lucasgragera51@gmail.com");
         loginPage.typePassword("jdsfhds");
