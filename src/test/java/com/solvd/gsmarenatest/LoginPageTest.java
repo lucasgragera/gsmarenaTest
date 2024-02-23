@@ -13,10 +13,12 @@ public class LoginPageTest implements IAbstractTest {
     @Test
     public void verifyLoginTest(){
         LoginPage loginPage = new LoginPage(getDriver());
-        
+
         loginPage.open();
-        loginPage.typeEmail("lucasgragera51@gmail.com");
-        loginPage.typePassword("jdsfhds");
+        //loginPage.typeEmail("lucasgragera51@gmail.com");
+        //loginPage.typePassword("jdsfhds");
+        loginPage.setEmailInput("lucasgragera51@gmail.com");
+        loginPage.setPassInput("hhfjdsj");
         loginPage.clickLoginButton();
         assertTrue(loginPage.isErrorMessagePresent(), "Error message isn't present");
 

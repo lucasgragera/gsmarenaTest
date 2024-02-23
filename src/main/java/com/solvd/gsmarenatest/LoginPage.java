@@ -48,6 +48,15 @@ public class LoginPage extends AbstractPage {
     public void clickLoginButton(){
         loginButton.click();
     }
+
+    public String setEmailInput(String emailInput) {
+        return emailInput;
+    }
+
+    public String setPassInput(String passInput) {
+        return passInput;
+    }
+
     public void typeEmail(String email){
         emailInput.type(email);
     }
